@@ -5,6 +5,6 @@
 
 
 <p>|-- media<br>
-   |  |-- galaxies_detection<br>
-   |  |-- galaxies_img</p>
+   |&nbsp;|-- galaxies_detection<br>
+   |&nbsp;|-- galaxies_img</p>
 
