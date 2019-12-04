@@ -7,13 +7,17 @@
    |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- galaxies_detection<br>
    |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- galaxies_img</p>
    
+   
+   <p>Note</p>
+   <p>The model still has errors, can give erroneous detections or that does not detect a galaxy.</p>
+   
    <hr>
    
    <h4>Detect the 3 major galaxies: Spiral, Elliptical and Irregular.</h4>
    <p>Gives you the number of galaxies for each type.</p>
    
    
-   <img src="https://github.com/Ariel0123/django-galaxy-detection/blob/master/label4.jpg">
+   <img src="https://github.com/Ariel0123/django-galaxy-detection/blob/master/detect_img.jpg">
 
    
    
