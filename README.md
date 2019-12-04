@@ -13,7 +13,7 @@
    <p>Gives you the number of galaxies for each type.</p>
    
    
-   https://github.com/Ariel0123/django-galaxy-detection/blob/master/label4.jpg
+   <img src="https://github.com/Ariel0123/django-galaxy-detection/blob/master/label4.jpg">
 
    
    
