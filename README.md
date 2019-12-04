@@ -14,13 +14,14 @@
    <hr>
    
    <h4>Detect the 3 major galaxies: Spiral, Elliptical and Irregular.</h4>
-   <p>Gives you the number of galaxies for each type.</p>
    
    
    <img src="https://github.com/Ariel0123/django-galaxy-detection/blob/master/detect_img.jpg">
 
-   
-   
+   <p>Gives you the number of galaxies for each type.</p>
+
+   <img src="https://github.com/Ariel0123/django-galaxy-detection/blob/master/count.jpg">
+
    
    
    
