@@ -8,8 +8,8 @@
    |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- galaxies_img</p>
    
    
-   <p>Note</p>
-   <p>The model still has errors, can give erroneous detections or that does not detect a galaxy.</p>
+   <p>Note<br>
+   The model still has errors, can give erroneous detections or that does not detect a galaxy.</p>
    
    <hr>
    
