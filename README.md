@@ -1,4 +1,4 @@
-<h2>Django app with Tensorflow object detection that detect galaxies.</h2>
+<h1>Django Galaxy Detection</h1>
 
 <h3>- IMPORTANT -</h3>
 <p><strong>Before you run the application create 2 folders inside the "media" folder, one with the name of "galaxies_detection" and the other "galaxies_img", to avoid errors.</strong><p>
@@ -18,7 +18,7 @@
    
    <img src="https://github.com/Ariel0123/django-galaxy-detection/blob/master/detect_img.jpg">
 
-   <p>Gives you the number of galaxies for each type.</p>
+   <h4>Gives you the number of galaxies for each type.</h4>
 
    <img src="https://github.com/Ariel0123/django-galaxy-detection/blob/master/count.jpg">
 
