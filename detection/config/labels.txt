@@ -1,0 +1,4 @@
+null
+spiral_galaxy
+elliptical_galaxy
+irregular_galaxy

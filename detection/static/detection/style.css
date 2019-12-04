@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+}
+
+.card-color{
+	background-color: rgb(31, 31, 31);
+
+}
+
+
+.l-white{
+		background-color: rgb(31, 31, 31);
+
+}
+
+label, input{
+	color: white;
+}
+

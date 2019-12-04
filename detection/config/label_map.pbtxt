@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'spiral_galaxy'
+}
+item {
+  id: 2
+  name: 'elliptical_galaxy'
+}
+item {
+  id: 3
+  name: 'irregular_galaxy'
+}
+
+
+

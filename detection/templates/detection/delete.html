@@ -1,0 +1,23 @@
+{% extends "detection/base.html" %}
+
+
+{% block content %}
+
+<div class="col-md-6 mx-auto">
+    <div class="card card-color">
+        <div class="card-body">
+            <h4 class="text-white">Delete</h4>
+            <hr>
+            <form method="POST">
+                {% csrf_token %}
+                <p class="text-white">Delete image "{{object.title}}"?</p>
+
+                <button class="btn btn-danger" type="submit">Yes, Delete</button>
+                <a href="{% url 'detail' object.id %}" class="btn btn-secondary" type="submit">Cancel</a>
+
+            </form>
+    </div>
+    </div>
+    </div>
+    
+{% endblock  %}

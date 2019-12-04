@@ -1,0 +1,23 @@
+{% extends "detection/base.html" %}
+
+{% block content %}
+
+<a class="btn btn-primary" href="{% url 'create' %}">New Image</a>
+
+<div class="card-columns mt-4">
+
+	{% for item in items %}
+  <div class="card card-color">
+        <img src="{{item.img.url}}" class="card-img-top" alt="...">
+
+    <div class="card-body">
+     <a href="{% url 'detail' item.id %}" class="btn btn-primary">{{item.title}}</a>
+    </div>
+  </div>
+
+  {% endfor %}
+
+</div>
+
+
+{% endblock %}

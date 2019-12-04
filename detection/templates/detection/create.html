@@ -1,0 +1,22 @@
+{% extends "detection/base.html" %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+<div class="col-md-6 mx-auto">
+    <div class="card card-color">
+        <div class="card-body">
+            <H4 class="text-white">Add Image</H4>
+            <hr>
+            <form method="POST" enctype='multipart/form-data'>
+                {% csrf_token %}
+                {{form|crispy}}
+
+                <button class="btn btn-primary" type="submit">Save</button>
+            </form>
+    </div>
+    </div>
+    </div>
+    
+{% endblock  %}
