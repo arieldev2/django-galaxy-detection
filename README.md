@@ -10,7 +10,7 @@
    
    <p><strong>- Note</strong><br>
    The model still has errors, can give erroneous detections or that does not detect a galaxy.<br>
-   This is an example to put this application into production, you should use celery or aws lambda</p>
+   This is an example to put this application into production, you should use celery or aws lambda.</p>
 
    
    
